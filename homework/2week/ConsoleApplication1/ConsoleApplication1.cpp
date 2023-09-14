@@ -10,7 +10,7 @@ int main() {
     vector<string> inputHistory;
     vector<string> outputHistory;
 
-    cout << " 김선호_202307075 의 어렵게 만들고 고친 VC++!............\n" << endl;
+    cout << " 김선호_202307075 의 어렵게 만들고 고친 VC++!...........\n" << endl;
     cout << "command>";
 
     while (running) {
